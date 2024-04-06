@@ -27,3 +27,5 @@ Actualmente trabajando en un proyecto que busca mejorar la distribución del ban
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=juandiegoa1110.juandiegoa1110" alt="Visitors">                
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandiegoa1110&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
