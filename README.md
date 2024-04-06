@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/linkedin-linkedin-purple?style=plastic&logo=Linkedin)
 
 Estudiante de la Universidad Fundacion de America
+
+
 Estudiante de septimo semestre de estadistica y ciencias actuariales
-Actualmente trabajando en un proyecto que busca mejorar la distribucio del banco de alimentos de Bogota
+
+
+Actualmente trabajando en un proyecto que busca mejorar la distribución del banco de alimentos de Bogota
