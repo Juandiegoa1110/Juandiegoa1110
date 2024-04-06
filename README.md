@@ -23,3 +23,7 @@ Estudiante de septimo semestre de estadistica y ciencias actuariales
 
 
 Actualmente trabajando en un proyecto que busca mejorar la distribución del banco de alimentos de Bogota
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=juandiegoa1110.juandiegoa1110" alt="Visitors">                
+</p>
